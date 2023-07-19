@@ -40,6 +40,6 @@ The tools and libraries we used are :
 - Feature Engineering
 - Model Training
 ## Dataset Description
-The dataset used here was collected fron kaggle website : https://www.kaggle.com/datasets/mathurtanvi/video-game-sales-dataset .
+The dataset used here was collected fron kaggle website : https://www.kaggle.com/datasets/mathurtanvi/video-game-sales-dataset.
 The dataset was posted in kaggle by GREGORYSMITH
 
