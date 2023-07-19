@@ -1,16 +1,16 @@
-#Future Sales Prediction - Video Game Sales
+# Future Sales Prediction - Video Game Sales
 
-##Table of Content
+## Table of Content
 -[Objective](#Objective)
 -[Dataset](#Dataset)
--[Tools and Libraries](#Tools and Libraries)
+-[Tools and Libraries](#Tools-and-Libraries)
 -[Steps](#Steps)
--[Dataset Information](#Dataset Information)
+-[Dataset Information](#Dataset-Information)
 
-##Objective
+## Objective
 The objective of this project is to develope a predictive model to estimate the future sales of video games based on sales data and various features such as title,platform,genre,publisher,critic score,user score,total shipped units,production cost and release year.
 Using those datas available we will predict the global sales of video games.
-##Dataset
+## Dataset
 The dataset used for this project consists of the following columns:
 -Title : The title or name of the video game.
 -Platform : The gaming platform or console on which the game is released(eg., PC, PS, PS2, etc..).
@@ -27,18 +27,18 @@ The dataset used for this project consists of the following columns:
 -Global Sales : The total sales revenue generated globally.
 -Production Cost : The cost incurred for developing and producing the video game.
 -Release Year : The year in which the video game was released.
-##Tools and Libraries
+## Tools and Libraries
 We have used three puthon packages :
 - Pandas
 - Matplotlib
 - Seaborn
-##Steps
+## Steps
 -Importing Libraries
 -Read Data
 -Data Preprocessing
 -Feature Engineering
 -Model Training
-##Dataset Description
+## Dataset Description
 The dataset used here was collected fron kaggle website : https://www.kaggle.com/datasets/mathurtanvi/video-game-sales-dataset .
 The dataset is posted by GREGORYSMITH
 
