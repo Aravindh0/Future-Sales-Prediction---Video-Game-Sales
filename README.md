@@ -28,9 +28,8 @@ The dataset used for this project consists of the following columns:
 - Production Cost : The cost incurred for developing and producing the video game.
 - Release Year : The year in which the video game was released.
 ## Tools and Libraries
-The tool we used :
+The tools and libraries we used are :
 - Sklearn
-We have used three python packages :
 - Pandas
 - Matplotlib
 - Seaborn
