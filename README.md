@@ -2,14 +2,20 @@
 
 ## Table of Content
 - [Objective](#Objective)
-- [Dataset](#Dataset)
 - [Tools and Libraries](#Tools-and-Libraries)
+- [Dataset](#Dataset)
 - [Steps Followed](#Steps-Followed)
 - [Dataset Information](#Dataset-Information)
 
 ## Objective
 The objective of this project is to develope a predictive model to estimate the future sales of video games based on sales data and various features such as title,platform,genre,publisher,critic score,user score,total shipped units,production cost and release year.
-Using those datas available we will predict the global sales of video games.
+Using those datas available we can predict the global sales of video games.
+## Tools and Libraries
+The tools and libraries we used are :
+- Sklearn
+- Pandas
+- Matplotlib
+- Seaborn
 ## Dataset
 The dataset used for this project consists of the following columns:
 - Title : The title or name of the video game.
@@ -27,12 +33,6 @@ The dataset used for this project consists of the following columns:
 - Global Sales : The total sales revenue generated globally.
 - Production Cost : The cost incurred for developing and producing the video game.
 - Release Year : The year in which the video game was released.
-## Tools and Libraries
-The tools and libraries we used are :
-- Sklearn
-- Pandas
-- Matplotlib
-- Seaborn
 ## Steps Followed
 - Importing Libraries
 - Read Data
