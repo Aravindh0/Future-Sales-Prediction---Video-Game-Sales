@@ -5,6 +5,7 @@
 - [Tools and Libraries](#Tools-and-Libraries)
 - [Dataset](#Dataset)
 - [Steps Followed](#Steps-Followed)
+- [Project Demonstration Video](Project-Demonstration-Video)
 - [Dataset Information](#Dataset-Information)
 
 ## Objective
@@ -39,6 +40,8 @@ The dataset used for this project consists of the following columns:
 - Data Preprocessing
 - Feature Engineering
 - Model Training
+## Project Demonstration Video
+https://github.com/Aravindh0/Future-Sales-Prediction---Video-Game-Sales/assets/122135451/a5811560-a514-4ad5-ad9e-dd61b1db3c97
 ## Dataset Description
 The dataset used here was collected fron kaggle website : https://www.kaggle.com/datasets/mathurtanvi/video-game-sales-dataset.
 The dataset was posted in kaggle by GREGORYSMITH
