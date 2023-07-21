@@ -6,7 +6,7 @@
 - [Tools and Libraries](#Tools-and-Libraries)
 - [Dataset](#Dataset)
 - [Steps Followed](#Steps-Followed)
-- [Project Demonstration Video](Project-Demonstration-Video)
+- [Project Demonstration Video](#Project-Demonstration-Video)
 - [Dataset Information](#Dataset-Information)
 
 ## Objective
