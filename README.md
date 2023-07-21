@@ -42,6 +42,7 @@ The dataset used for this project consists of the following columns:
 - Feature Engineering
 - Model Training
 ## Project Demonstration Video
+The demonstration of the project is shown below : 
 https://github.com/Aravindh0/Future-Sales-Prediction---Video-Game-Sales/assets/122135451/a5811560-a514-4ad5-ad9e-dd61b1db3c97
 ## Dataset Description
 The dataset used here was collected fron kaggle website : https://www.kaggle.com/datasets/mathurtanvi/video-game-sales-dataset.
