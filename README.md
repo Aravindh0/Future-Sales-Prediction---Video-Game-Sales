@@ -7,6 +7,7 @@
 - [Dataset](#Dataset)
 - [Steps Followed](#Steps-Followed)
 - [Project Demonstration Video](#Project-Demonstration-Video)
+- [Tableau](#Tableau)
 - [Dataset Information](#Dataset-Information)
 
 ## Objective
@@ -45,6 +46,8 @@ The dataset used for this project consists of the following columns:
 The demonstration of the project is shown below : 
 
 https://github.com/Aravindh0/Future-Sales-Prediction---Video-Game-Sales/assets/122135451/a5811560-a514-4ad5-ad9e-dd61b1db3c97
+## Tableau
+Conducted visualization using tableau for the above data. The final dashboard png is provided to view the interactive dashboard : https://public.tableau.com/app/profile/aravindh.a8824/viz/VideoGameSales_16911771460800/Dashboard1#1 
 ## Dataset Description
 The dataset used here was collected fron kaggle website : https://www.kaggle.com/datasets/mathurtanvi/video-game-sales-dataset.
 The dataset was posted in kaggle by GREGORYSMITH
